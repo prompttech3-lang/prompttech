@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
-  <title id="title">PromptTech Recovery mark</title>
-  <defs><linearGradient id="leaf" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse"><stop stop-color="#3b9367"/><stop offset="1" stop-color="#14543a"/></linearGradient></defs>
-  <rect x="2" y="2" width="60" height="60" rx="19" fill="#e5f2e7"/>
-  <path d="M32 8 53 20v24L32 56 11 44V20L32 8Z" fill="url(#leaf)"/>
-  <path d="m22 36 10-16 10 16M26 32h12" fill="none" stroke="#f7fbf6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="47" cy="17" r="4" fill="#c6e99d"/>
-</svg>
